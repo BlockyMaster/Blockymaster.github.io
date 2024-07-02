@@ -1,0 +1,61 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('np://user.desktop.nicepage.com/Site_96490320/images/GLyd-4xXcAAC63a.jpg?rand=4d57');
+  background-position: 87.18% 60%;
+  background-size: auto 110%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 155px;
+  margin: 322px 285px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 185px;
+    margin-right: 185px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 75px;
+    margin-right: 75px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 372px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 147px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 318px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 93px;
+  }
+}
